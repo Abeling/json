@@ -1,0 +1,1 @@
+{"Mediacollege":{"category":"MBO","nr_students":20000,"courses":{"MD":"MediaDevelopment","GM":"GameDevelopment","MV":"MediaVormgever"}},"Nova":{"category":"Highschool","nr_students":10000,"courses":{"TL":"Theoretische leerweg","HAVO":"Hoger algemeen voortgezet onderwijs","VWO":"Voorbereidend wetenschappelijk onderwijs"}}}
